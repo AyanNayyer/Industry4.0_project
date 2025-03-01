@@ -1,0 +1,3 @@
+# Ignore environment variables
+.env
+env_i4/
