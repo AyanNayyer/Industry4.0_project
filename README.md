@@ -2,7 +2,7 @@
 
 **Clone this repo**
 
-1. Create a virtual env - 
+1. Create a virtual environment 
 ```bash
 python -m venv .env_name
 ```
@@ -10,7 +10,7 @@ python -m venv .env_name
 ```bash
 source env_name/bin/activate
 ```
-3. install `req.txt` - 
+3. Install all the dependency 
 ```bash
 pip install -r req.txt
 ```
