@@ -2,6 +2,15 @@
 
 **Clone this repo**
 
-1. Create a virtual env - `virtualenv env_name`
-2. install `req.txt` - `pip install -r req.txt`
-3. you are good to go 
+1. Create a virtual env - 
+```bash
+python -m venv .env_name
+```
+2. Activate the Virtual environment
+```bash
+source env_name/bin/activate
+```
+3. install `req.txt` - 
+```bash
+pip install -r req.txt
+```
